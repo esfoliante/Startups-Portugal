@@ -7,6 +7,6 @@ Aconselho a verem [como contribuir](ComoContribuir.md) primeiro.
 
 ## Startups
 
-[🤖 Se3Me Solutions](solutions.se3me.com) - Porto
+[🤖 Se3Me Solutions](https://solutions.se3me.com) - Porto
 
-[🤖 meuParlamento](www.meuparlamento.pt) - Porto
+[🤖 meuParlamento](https://www.meuparlamento.pt) - Porto
